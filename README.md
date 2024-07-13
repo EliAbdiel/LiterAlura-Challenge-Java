@@ -3,6 +3,8 @@
 
 En este desafío de programación, se te invita a construir tu propio catálogo de libros llamado `LiterAlura`. Aprenderás a hacer solicitudes a una API de libros, manipular datos JSON, almacenarlos en una base de datos y, finalmente, filtrar y mostrar libros y autores de interés.
 
+![Insignia Spring](img/badge-literalura.png)
+
 
 ## Feature
 
