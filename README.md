@@ -294,25 +294,13 @@ private void top10LibrosMasDescargados() {
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/EliAbdiel/LiterAlura-Challenge-Java.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
+  cd literalura
 ```
 
 
